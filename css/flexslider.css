@@ -339,7 +339,7 @@ html[xmlns] .slides {display: block;}
 
 .top_slider .slide2 {
 	height:100%;
-	background-image:url(../images/slider/house3.png);
+	background-image:url(../images/slider/housepoop.png);
 	background-size:cover;
 	background-attachment:fixed !important;
 }
@@ -351,7 +351,7 @@ html[xmlns] .slides {display: block;}
 	top:45%;
 	width:100%;
 	margin-left:-585px;
-	color:#fff;
+	color:rgb(236, 124, 32);
 	transform: translateY(-50%);
 	-o-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
